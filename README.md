@@ -1,4 +1,4 @@
-### 1，vs code 打开python终端不是python环境
+### 1，vs code 打开python项目，新建终端不是python环境
 
 解决办法：
 在setting.json文件中添加"python.venvPath": "./venv"
